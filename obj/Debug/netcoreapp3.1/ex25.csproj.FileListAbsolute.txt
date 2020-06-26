@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\bin\Debug\netcoreapp3.1\ex25.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex25\obj\Debug\netcoreapp3.1\ex25.genruntimeconfig.cache
